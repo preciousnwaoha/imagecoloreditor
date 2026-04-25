@@ -1,5 +1,5 @@
 {
-  "name": "Image Color Filler",
+  "name": "Image Color Edit",
   "description": "Upload an image with a transparent background (like a PNG) and fill its non-transparent areas with a solid color of your choice. Download the result instantly.",
   "requestFramePermissions": []
 }
